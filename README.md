@@ -107,4 +107,4 @@ El proyecto incluye un informe formal bajo la norma ICONTEC, con:
 
 ## 11. Autoría
 
-Proyecto desarrollado en Google Colab como parte del curso de Redes Neuronales y Aprendizaje Supervisado.
+Proyecto desarrollado en Google Colab como parte del curso de Introduccion a IA
